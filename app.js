@@ -1,1 +1,1 @@
-console.log("As-Salamoileikoum");
+console.log("As-Salamoileikoum wa rahmatoullahi");
